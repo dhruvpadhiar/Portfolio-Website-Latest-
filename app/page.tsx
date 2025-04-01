@@ -31,7 +31,7 @@ export default function Home() {
       description: "A responsive portfolio website showcasing projects and skills with a modern UI design.",
       image: "/portfolioweb.png?height=300&width=500",
       github: "https://github.com/dhruvpadhiar/Portfolio-Website-Latest-",
-      demo: "https://portfolio-demo.vercel.app",
+      demo: "https://dhruvpadhiar-portfolio.vercel.app/",
       technologies: ["react", "tailwind", "typescript"],
     },
     {
